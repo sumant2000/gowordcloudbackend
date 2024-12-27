@@ -1,4 +1,4 @@
-package gowordcloudbackend
+package main
 
 import (
 	"gowordcloudbackend/controller"
