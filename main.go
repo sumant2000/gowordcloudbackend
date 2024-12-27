@@ -1,9 +1,9 @@
 package gowordcloudbackend
 
 import (
+	"gowordcloudbackend/controller"
 	"log"
 	"net/http"
-	"wordcloud/controller"
 
 	"github.com/gorilla/mux"
 )
